@@ -1,1 +1,1 @@
-# func-prog-lambda-calculus
+# Notes and solutions to exercises
